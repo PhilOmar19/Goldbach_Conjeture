@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goldbach Conjeture", "Goldbach Conjeture\Goldbach Conjeture.csproj", "{13C744B5-CC6F-46F9-BE62-CDEDCEE95F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13C744B5-CC6F-46F9-BE62-CDEDCEE95F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13C744B5-CC6F-46F9-BE62-CDEDCEE95F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13C744B5-CC6F-46F9-BE62-CDEDCEE95F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13C744B5-CC6F-46F9-BE62-CDEDCEE95F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2A7847-5D97-4494-9232-B1C9514463B3}
+	EndGlobalSection
+EndGlobal

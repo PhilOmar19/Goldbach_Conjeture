@@ -1,0 +1,14 @@
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\bin\Debug\net8.0\Goldbach Conjeture.exe
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\bin\Debug\net8.0\Goldbach Conjeture.deps.json
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\bin\Debug\net8.0\Goldbach Conjeture.runtimeconfig.json
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\bin\Debug\net8.0\Goldbach Conjeture.dll
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\bin\Debug\net8.0\Goldbach Conjeture.pdb
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.dll
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\refint\Goldbach Conjeture.dll
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.pdb
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\Goldbach Conjeture.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\My files\Programando en C#\Goldbach Conjeture\Goldbach Conjeture\obj\Debug\net8.0\ref\Goldbach Conjeture.dll
